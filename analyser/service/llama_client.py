@@ -265,6 +265,15 @@ class LlamaClient:
             - Crie um ambiente de trabalho que tenha baixa tolerância para incompetência ou burocracia.
             - Saiba negociar remunerações de forma que a pessoa se sinta bem com a contraproposta e ao mesmo tempo beneficie a empresa, reduzindo custos
             
+            # >>> INÍCIO DA SUGESTÃO ADICIONADA AQUI <<<
+            6. Classificação Obrigatória do Candidato:
+            Ao final do seu parecer, você DEVE analisar de forma crítica a aderência do candidato e classificá-lo explicitamente em UMA das três categorias abaixo, justificando brevemente a escolha:
+            
+            - "Pronto para o Jogo": O candidato possui experiência sólida e/ou certificações aderentes à vaga. Requer mínimo esforço de onboarding técnico.
+            - "Potencial de Treinamento": O candidato possui uma boa base teórica ou acadêmica, mas falta vivência prática ou domínio das ferramentas específicas. Pode performar bem com capacitação.
+            - "Perfil Diversificado": O candidato possui fortes habilidades em TI, mas seu histórico principal é voltado para outras áreas. Pode não ter a adaptação ideal à rotina ou mentalidade desta vaga específica.
+            # >>> FIM DA SUGESTÃO ADICIONADA AQUI <<<
+            
             Curriculum do candidato a ser avaliado:
             
             {cv}
